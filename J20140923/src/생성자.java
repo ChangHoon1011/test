@@ -1,20 +1,20 @@
 
-public class ìƒì„±ì {
+public class »ı¼ºÀÚ {
 	String name;
-	public ìƒì„±ì() {//ê¸°ë³¸ìƒì„±ì	
-		this("SSS");// ìƒì„±ìì£¼ì„
-		System.out.println("ê¸°ë³¸ìƒì„±ì");
+	public »ı¼ºÀÚ() {//±âº»»ı¼ºÀÚ	
+		this("SSS");// »ı¼ºÀÚÁÖ¼®
+		System.out.println("±âº»»ı¼ºÀÚ");
 		this.name = "AAA";
 	}
-	public ìƒì„±ì(String name)	{
+	public »ı¼ºÀÚ(String name)	{
 		this("SSS", 10);
-		System.out.println("ìƒì„±ì"+name);
+		System.out.println("»ı¼ºÀÚ"+name);
 	}
-	public ìƒì„±ì(String name, int a)	{
+	public »ı¼ºÀÚ(String name, int a)	{
 		this("SSS", 10, 100.5d);
-		System.out.println("ìƒì„±ì"+name+ " "+a);
+		System.out.println("»ı¼ºÀÚ"+name+ " "+a);
 	}
-	public ìƒì„±ì(String name, int a , double b)	{
-		System.out.println("ìƒì„±ì"+name+ " "+a +" "+b);
+	public »ı¼ºÀÚ(String name, int a , double b)	{
+		System.out.println("»ı¼ºÀÚ"+name+ " "+a +" "+b);
 	}
 }

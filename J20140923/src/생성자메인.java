@@ -1,29 +1,30 @@
 
-public class ìƒì„±ìë©”ì¸ {
+public class »ı¼ºÀÚ¸ŞÀÎ {
 
-	public ìƒì„±ìë©”ì¸()
+	public »ı¼ºÀÚ¸ŞÀÎ()
 	{
-		String str = ìƒì„±ìë©”ì¸();
+		String str = »ı¼ºÀÚ¸ŞÀÎ();
 	}
-	public ìƒì„±ìë©”ì¸(String str)
+	public »ı¼ºÀÚ¸ŞÀÎ(String str)
 	{
 		System.out.println("TEST1");
 	}
 	
-	public ìƒì„±ìë©”ì¸(String str, int a)
+	public »ı¼ºÀÚ¸ŞÀÎ(String str, int a)
 	{
 		System.out.println("TEST2");
 	}
 	
-	public String ìƒì„±ìë©”ì¸()
+	public String »ı¼ºÀÚ¸ŞÀÎ()
 	{
-		System.out.println("ìƒì„±ìë©”ì†Œë“œ");
+		System.out.println("»ı¼ºÀÚ¸Ş¼Òµå");
 		return "TEST12";
 	}
+	
 	public static void main(String[] args) {
 		
-		//ìƒì„±ìë©”ì¸ sm = new ìƒì„±ìë©”ì¸("ã„´ã„´",10);
-		ìƒì„±ì con = new ìƒì„±ì();
+		//»ı¼ºÀÚ¸ŞÀÎ sm = new »ı¼ºÀÚ¸ŞÀÎ("¤¤¤¤",10);
+		»ı¼ºÀÚ con = new »ı¼ºÀÚ();
 		
 	}
 
